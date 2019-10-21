@@ -1,4 +1,5 @@
 public class Dzielnik
+//fefefefegegegege
 {
     public static void main(String[] args)
     {
