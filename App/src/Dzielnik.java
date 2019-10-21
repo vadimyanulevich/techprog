@@ -1,4 +1,3 @@
-
 public class Dzielnik
 {
     public static void main(String[] args)
